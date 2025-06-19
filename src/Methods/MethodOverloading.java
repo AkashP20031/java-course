@@ -2,12 +2,12 @@ package Methods;
 
 public class MethodOverloading {
 
-    static int add(int a, int b)
+    public static int add(int a, int b)
     {
         return a+b;
     }
 
-    static int add(int a, int b, int c)
+    public static int add(int a, int b, int c)
     {
         return a+b+c;
     }

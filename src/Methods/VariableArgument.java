@@ -2,7 +2,7 @@ package Methods;
 
 public class VariableArgument {
 
-    static void show(int ...A)
+    public static void show(int ...A)
     {
         for (int x : A)
         {
@@ -10,7 +10,7 @@ public class VariableArgument {
         }
         System.out.println();
     }
-    static void show(String ...name)
+    public static void show(String ...name)
     {
         for (String n : name)
         {

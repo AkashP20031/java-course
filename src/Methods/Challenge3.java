@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Challenge3 {
 
-    static boolean isPrime(int num)
+    public static boolean isPrime(int num)
     {
 
         if (num <= 1)

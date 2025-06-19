@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class Challenge1 {
 
-    int max(int a, int b)
+    public int max(int a, int b)
     {
         return Math.max(a, b);
     }
-    static int maxmum(int a, int b)
+    public static int maxmum(int a, int b)
     {
         return Math.max(a, b);
     }

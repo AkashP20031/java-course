@@ -7,6 +7,7 @@ public class Challenge2 {
         int a[] = {1,2,3,4,5,6,7,8};
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
+
         for(int n : a)
         {
             if(num == n)

@@ -12,7 +12,6 @@ public class Array2D {
             System.out.println();
         }
         System.out.println();
-
         for (int[] x : a) {
             for (int y : x) {
                 System.out.print(y);

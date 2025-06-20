@@ -5,6 +5,7 @@ public class MatrixMultiplication2D {
         int[][] A = {{1,2,3},{3,5,7},{4,8,6}};
         int[][] B = {{7,5,3},{9,5,4},{1,5,3}};
         int[][] C = new int[3][3];
+
         for (int i=0; i < 3; i++)
         {
             for (int j=0; j < 3; j++)
